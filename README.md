@@ -47,6 +47,6 @@ a user must point the CybOX Document Validator at those schemas in order to vali
 ## Terms
 BY USING THE CYBOX DOCUMENT VALIDATOR, YOU SIGNIFY YOUR ACCEPTANCE OF THE 
 TERMS AND CONDITIONS OF USE.  IF YOU DO NOT AGREE TO THESE TERMS, DO NOT USE 
-THE CybOX DOCUMENT VALIDATOR.
+THE CYBOX DOCUMENT VALIDATOR.
 
 For more information, please refer to the LICENSE.txt file
