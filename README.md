@@ -37,7 +37,7 @@ found locally or referenced remotely through the schemaLocation attribute.
 **Validate a directory of CybOX documents**  
 `python cdv.py --input-dir <cybox_dir> --schema-dir schema`
 
-**Export JSON Results**
+**Export JSON Results**  
 `python cdv.py --input-dir <cybox_dir> --schema-dir schema --json-results`
 
 ## All CybOX Documents?
