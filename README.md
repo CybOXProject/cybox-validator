@@ -7,7 +7,6 @@ The CybOX Document Validator has the following dependencies:
 * Python v2.7 http://python.org/download
 * lxml >= v3.2.0 http://lxml.de/index.html#download
   * libxml2 >= v2.9.1 http://www.xmlsoft.org/downloads.html
-* xlrd >= v0.9.2 https://pypi.python.org/pypi/xlrd
 
 For a Windows installer of lxml, we recommend looking here: http://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml
 

@@ -6,8 +6,6 @@ import re
 from collections import defaultdict
 from StringIO import StringIO
 from lxml import etree
-from lxml import isoschematron
-import xlrd
 
 class XmlValidator(object):
     NS_XML_SCHEMA_INSTANCE = "http://www.w3.org/2001/XMLSchema-instance"
